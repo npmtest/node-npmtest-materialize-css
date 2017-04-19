@@ -1,4 +1,7 @@
-# test coverage for  [materialize-css (v0.98.2)](https://github.com/Dogfalo/materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-materialize-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-materialize-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-materialize-css.svg)](https://travis-ci.org/npmtest/node-npmtest-materialize-css)
+# npmtest-materialize-css
+
+#### test coverage for  [materialize-css (v0.98.2)](https://github.com/Dogfalo/materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-materialize-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-materialize-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-materialize-css.svg)](https://travis-ci.org/npmtest/node-npmtest-materialize-css)
+
 #### Builds Materialize distribution packages
 
 [![NPM](https://nodei.co/npm/materialize-css.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/materialize-css)
