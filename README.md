@@ -1,6 +1,6 @@
 # npmtest-materialize-css
 
-#### test coverage for  [materialize-css (v0.98.2)](https://github.com/Dogfalo/materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-materialize-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-materialize-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-materialize-css.svg)](https://travis-ci.org/npmtest/node-npmtest-materialize-css)
+#### basic test coverage for  [materialize-css (v0.98.2)](https://github.com/Dogfalo/materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-materialize-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-materialize-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-materialize-css.svg)](https://travis-ci.org/npmtest/node-npmtest-materialize-css)
 
 #### Builds Materialize distribution packages
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-materialize-css/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-materialize-css/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-materialize-css/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-materialize-css/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-materialize-css/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-materialize-css/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-materialize-css/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-materialize-css/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-materialize-css/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-materialize-css/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-materialize-css/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-materialize-css/build/coverage.html/index.html)
 
@@ -99,7 +99,8 @@
         "test": "grunt travis --verbose"
     },
     "url": "http://materializecss.com/",
-    "version": "0.98.2"
+    "version": "0.98.2",
+    "bin": {}
 }
 ```
 
